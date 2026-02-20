@@ -55,6 +55,5 @@ It demonstrates practical skills in:
 
 ---
 
-## 👤 Author
-Hatim Chahdi  
-AI / Backend Developer
+## 👨‍💻 Auteur
+Hatim Chahdi Développeur Python / Django / IA
